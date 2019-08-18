@@ -16,3 +16,6 @@
 * cd into the project folder and run `pipenv install`
 * npm runserver to test your dev server.
 
+
+### Run Tests
+> `coverage run --source='Term' manage.py test && coverage report `
